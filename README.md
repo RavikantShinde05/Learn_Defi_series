@@ -1,5 +1,3 @@
-# Learn_Defi_series
-This is a learning series for defi
 # Learn DeFi
 
 A structured and professional introduction to **Decentralized Finance (DeFi)** — designed for developers, investors, researchers, and professionals seeking a clear understanding of the DeFi ecosystem, infrastructure, and risks.
@@ -145,12 +143,6 @@ Contributions are welcome. Please:
 * Propose additional educational resources
 * Maintain professional documentation standards
 * Reference credible sources when applicable
-
----
-
-## License
-
-This project is licensed under the MIT License.
 
 ---
 
